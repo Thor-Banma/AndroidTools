@@ -4,4 +4,5 @@ Android Studio创建虚拟机的时候，提示HAXM未安装，根据内置的�
 - 在control panel的programs and features中， 选择Turn Windows features on or off，然后勾选Virtual Machine Platform和Windows Hypervisor Platform
 
 参考视频：[Fixed - Android Studio Reinstall HAXM | Virtual machine acceleration driver is out of date](https://www.youtube.com/watch?v=9l3TfjE-DaA)
+
 参考文档：[我的处理器是否支持英特尔® 虚拟化技术？](https://www.intel.cn/content/www/cn/zh/support/articles/000005486/processors.html)
